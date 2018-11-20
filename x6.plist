@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>com.xhhd.pkll</string>
+    <string>cn.com.pytx.pytx</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
